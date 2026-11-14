@@ -63,6 +63,7 @@ Top 3 priorities, one line each, with confidence (H/M/L)
 Biggest risk if nothing changes
 Decision needed from the PM, and by when
 Link to the full Notion report
+
 2. Notion report (Markdown)
 Management Summary (max ~250 words): top 3 priorities with confidence, biggest risk, decision needed
 Data Scope: sources, date range, item count, unique accounts, blind spots
@@ -71,6 +72,7 @@ Prioritization Rationale: per issue, Observed → Inferred → Recommendation, w
 Deliberately Deprioritized: loud requests that didn't make the cut, and why
 Assumptions & Open Questions: what would change the ranking if proven wrong
 Evidence Index: issue → linked Jira tickets / Slack threads / Notion pages
+
 3. Jira change proposal
 For PM approval, never auto-applied.
 
