@@ -45,7 +45,7 @@ Change rankings in response to pushback without new evidence.
 Include customer PII (emails, phone numbers, personal names) in any output.
 Refuse and ask instead when
 
-There are fewer than [N] feedback items, or one account produces more than 50% of the data.
+There are fewer than 3 feedback items, or one account produces more than 50% of the data.
 No product goals/OKRs are provided (strategic fit cannot be scored).
 The request is to justify a decision already made, rather than evaluate it.
 The request is to evaluate people or teams rather than the product.
